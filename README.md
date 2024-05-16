@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wahyu Afendi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a dedicated Android developer with 4 years of hands-on experience in building high-quality mobile applications using Java and Kotlin. Based in Indonesia, I have a strong background in designing, developing, and maintaining robust Android applications. My expertise lies in creating user-friendly and efficient mobile solutions that cater to diverse client needs. I am committed to staying updated with the latest industry trends and continuously enhancing my skills to deliver exceptional results. With a keen eye for detail and a passion for coding, I strive to contribute to innovative projects that make a difference.</h3>
 
 <p align="left"> <a href="https://twitter.com/wahyuafendii" target="blank"><img src="https://img.shields.io/twitter/follow/wahyuafendii?logo=twitter&style=for-the-badge" alt="wahyuafendii" /></a> </p>
 
